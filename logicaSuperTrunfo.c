@@ -85,5 +85,5 @@ printf("\n=====DENSIDADE=====\n");
     }else{
     printf("Carta 1 venceu\n");
     }
-
+    
 }
